@@ -1,3 +1,13 @@
-p {
-  color: sandybrown;
+.first{
+  color: red;
+  width: 400px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: auto;
+  
+}
+
+html {
+  font-size: 15px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif; 
 }
